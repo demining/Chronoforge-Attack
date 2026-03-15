@@ -88,7 +88,16 @@
 </div>
 
 
-<pre class="wp-block-code"><code><strong><a href="https://www.youtube.com/watch?v=owgbAd-vtoI" target="_blank" rel="noreferrer noopener">https://www.youtube.com/watch?v=owgbAd-vtoI</a></strong></code></pre>
+<hr class="wp-block-separator has-alpha-channel-opacity">
+
+
+* Tutorial: https://youtu.be/owgbAd-vtoI
+* Tutorial: https://cryptodeeptech.ru/chronoforge-attack
+* Tutorial: https://dzen.ru/video/watch/69b1a59cde2c2b0c75836b1a
+* Google Colab: https://bitcolab.ru/vulncipher-cryptanalytic-framework-for-practical-key-recovery
+
+</ul>
+</blockquote>
 
 
 
